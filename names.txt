@@ -1,0 +1,20 @@
+
+trying to edit this text again 
+and then i will try to exit form here
+
+
+yeah I am here again
+let's have one more exit
+ 
+
+
+I am here again
+now doing a exit again to check if there is any commit or not
+
+we have to use git add after exiting to do it in git status
+now exiting again
+ 
+
+ fcndfjknvcd
+ vdfvdfv
+ 
